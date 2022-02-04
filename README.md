@@ -6,7 +6,7 @@ The code hasn't got the prettiest comments because the hungarian JavaDoc documen
 
 Some impartant notes: 
 - Its only running in Eclipse at the moment.
-- It has some bugs (quite a few... eg. ghost routings are quite dunb, 
+- It has some bugs (quite a few... eg. ghost routings are quite dumb, 
   some "game ends" break the program, but a restrart fix that and the score won't be lost ecc..)
   
   
